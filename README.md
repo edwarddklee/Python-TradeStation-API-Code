@@ -1,6 +1,6 @@
 # Python-TradeStation-API-Code
 
-#Get_Token.py
+# Get_Token.py
 
 What this program does:
 
@@ -13,7 +13,7 @@ Output of Program:
 A new refresh_token in terminal which must copy and replace the text in refresh_token.txt
 
 
-#Stream_BarchartData.py 
+# Stream_BarchartData.py 
 
 What this program does:
 
@@ -43,7 +43,7 @@ SymbolName_DailyorMinute: example: MSFT_Daily will show up in a folder with data
 Time, Open, High, Low, Close, and Volume. 
 
 
-#Order_Execution.py
+# Order_Execution.py
 
 What this Program Does:
 
